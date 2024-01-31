@@ -1,0 +1,4 @@
+# MY-IMAGE-AVIGAIL
+
+## Build
+docker build -t convertor .
